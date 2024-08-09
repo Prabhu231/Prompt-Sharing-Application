@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project
 It uses tailwind and mongo db 
 ## Getting Started
@@ -42,3 +43,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Project
 
 A full stack application that allows you to share AI prompts
+=======
+# Prompt-Sharing-Application
+A prompt sharing application made with Next.js, MongoDB and tailwind
+>>>>>>> main
